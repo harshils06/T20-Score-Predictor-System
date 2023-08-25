@@ -33,4 +33,5 @@ Feature engineering plays a crucial role in enhancing the predictive capabilitie
 
 ### Model Training using XGBoost
 XGBoost, a powerful gradient boosting algorithm, is employed to train the score prediction model. The model is trained using the training data prepared in the previous stages.
-
+## RESULT
+(https://github.com/harshils06/T20-Score-Predictor-System/blob/main/Result.jpeg)
